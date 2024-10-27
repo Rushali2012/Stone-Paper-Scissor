@@ -1,4 +1,4 @@
-# BreadcrumbsStone-Paper-Scissor
+# Stone-Paper-Scissor
 
 
 ![image](https://github.com/user-attachments/assets/9e5b70b7-07cc-435a-a885-1965b7c98fa2)
